@@ -148,4 +148,4 @@ private/
 
 ## License
 
-このパッケージにはライセンス文書を含めていません。公開配布する場合は、リポジトリ公開前に利用条件を決めて `LICENSE` を追加してください。
+MIT License. See [LICENSE](LICENSE).
