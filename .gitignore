@@ -1,0 +1,20 @@
+# Actual memo data
+data/*.txt
+!data/.gitkeep
+!data/.htaccess
+
+# Edit/delete/restore history
+edits/*.txt
+!edits/.gitkeep
+!edits/.htaccess
+
+# Authentication, setup key, sessions and Shortcut token digest
+private/*
+!private/.gitkeep
+!private/.htaccess
+
+# OS/editor noise
+.DS_Store
+*~
+*.swp
+SHA256SUMS

@@ -1,0 +1,5 @@
+# Optional. Rename to .htaccess only if your server needs it.
+# Some shared hosts do not allow Options in .htaccess; remove that line if it causes HTTP 500.
+
+DirectoryIndex index.cgi
+Options -Indexes
